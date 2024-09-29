@@ -1,0 +1,17 @@
+.odd {
+    background-color: #FF8BA0;
+    font-family: Verdana, DejaVu-Sans,sans-serif;
+}
+#second{
+    color: #00FFFF;
+    font-size: 36px;
+}
+#third{
+    font-size: 24px;
+}
+
+.green {
+    background-color: #008000;
+    font-size: 24px;
+    font-weight: bold;
+}
